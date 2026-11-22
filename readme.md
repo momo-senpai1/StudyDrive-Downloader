@@ -1,8 +1,8 @@
-# StudyDrive Downloader ⭐
+# StudyDrive Downloader 
 
 A browser extension that lets you download documents from [StudyDrive](https://www.studydrive.net) as PDF, without Premium.
 
-It works through StudyDrive's own **Download** button. You don't need a popup or any extra button.
+It works through StudyDrive's own **Download** button.
 
 Works in **Chrome, Edge, Brave, Opera, Firefox** and **Safari** (macOS).
 
@@ -72,7 +72,7 @@ Then refresh the StudyDrive tab.
 
 ## Troubleshooting
 
-- **The Premium page still opens:** reload the extension and refresh the StudyDrive tab.
+- **The Premium page still could open:** reload the extension and refresh the StudyDrive tab.
 - **Nothing happens:** press F12 on the document page and look in the console for `[StudyDrive Download]` messages.
   In Chrome you can also click **Service worker** on the extension card in `chrome://extensions` to see errors from the background script.
 - **An alert shows an error:** open an [issue](https://github.com/momo-senpai1/StudyDrive-Downloader/issues) and include the message and the browser you use.
